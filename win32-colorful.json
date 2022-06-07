@@ -63,7 +63,7 @@
         "Grey": {
           "0": {
             "type": "color",
-            "value": "#3333FF"
+            "value": "#000000"
           },
           "2": {
             "type": "color",
@@ -75,7 +75,7 @@
           },
           "6": {
             "type": "color",
-            "value": "#941c1c"
+            "value": "#0f0f0f"
           },
           "8": {
             "type": "color",
