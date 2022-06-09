@@ -4183,7 +4183,7 @@
         "Color": {
           "Rest": {
             "type": "color",
-            "value": "{Global.Color.Grey.100}"
+            "value": "#d58d8d"
           },
           "Hover": {
             "type": "color",
